@@ -68,10 +68,10 @@ ________________________________________________________________________________
 
   <!DOCTYPE html>
 <html>
-<head>
-<link rel="stylesheet" href="style 3.html" >
-</head>
 
+<head>
+    <link rel="stylesheet" href="main.css">
+</head>
 
 <body>
   <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-medico-icone_53876-6167.jpg" alt="" class="logo" height="80" width="80">
@@ -93,6 +93,8 @@ ________________________________________________________________________________
 
   <br>
   <br>
+  <br>
+  <br>
 
 <fieldset id=”profissional”> 
 <p class="important">profissional</p>
@@ -101,4 +103,4 @@ ________________________________________________________________________________
 
 </body>
 
-</html>  
+</html>
