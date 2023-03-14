@@ -2,12 +2,6 @@
 
 <html>
     <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, intial-scale=1.0">
-      <link rel="stylesheet" href="main.css">
-      <title> Login </title>
-
-    </head>
         <body>
 
         
@@ -69,6 +63,7 @@
 
 
         </body>
+        </head>
 </html>      
 
 _________________________________________________________________________________________________________________________________________________
