@@ -66,7 +66,7 @@
 
 _________________________________________________________________________________________________________________________________________________
 
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -89,16 +89,23 @@ ________________________________________________________________________________
 <fieldset id=”data”>
   <p class="important">data</p>
   <p><li>15/03/2023</p></li>
+  <br>
+  <br>
+  <br>
+
   </fieldset>
 
   <br>
   <br>
   <br>
-  <br>
+
 
 <fieldset id=”profissional”> 
 <p class="important">profissional</p>
-<p><li>Dr.</p></li>
+<p><li>Dr. José Eduardo</p></li>
+<br>
+<br>
+<br>
 </fieldset>
 
 </body>
