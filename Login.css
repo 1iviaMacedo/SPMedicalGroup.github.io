@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+    color: #240c0c;
+    left: 10%;
+    position: absolute;
+    top: 4%;
+}
+
+.fundo{
+  width: 520px;
+  height: 605px;
+}
+
+#fundo-login{
+  left: 20px;
+}
