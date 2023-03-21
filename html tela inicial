@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+ <head></head>
+ <body></body>
+
+ 
+
+    <h1>SP medical group</h1
+    <img src="https://img.freepik.com/vetores-gratis/ilustracao-de-medico-icone_53876-6167.jpg" alt="" class="logo" height="80" width="80">
+
+    <p></p>
+    <img src="hosptall.jpg" height="130" width="200">
+
+    <img src="arte.jpg" height="130" width="200">
+
+    <img src=".jpg" height="130" width="200">
+    
+    <img src="arteterapia.png" height="130" width="200">
+
+    <p></p>
+    <button onClick="adicionarFilme()">Consultas</button>
+    <button onClick="adicionarFilme()">Agendar</button>
+    <button onClick="adicionarFilme()">Planos de Saúde</button>
+    <button onClick="adicionarFilme()">Meu perfil</button>
+
+</body>
+</html>
