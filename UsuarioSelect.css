@@ -54,9 +54,15 @@ h1{
     color: #3F4927;
     text-align: center;
 }
-#botão{
-    z-index: 4;
-    margin-left: 650px;
-    margin-top: 1000px;
 
+.paciente{
+    position: absolute;
+    left: 51.8%;
+    top: 78%;
+}
+
+.funcionario{
+    position: absolute;
+    left: 9.4%;
+    top: 78%;
 }
