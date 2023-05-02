@@ -109,23 +109,14 @@
   .opções1{
     position: absolute;
     z-index: 3;
-    color: #3F4927;
-    left: 26%;
-    top: 77%;
-    font-size: 80%;
+    color: #3f492700;
+    left: 17%;
+    top: 84%;
+    font-size: 100%;
 
   }
 
   .opções2{
-    position: absolute;
-    z-index: 3;
-    color: #3F4927;
-    left: 26%;
-    top: 80%;
-    font-size: 80%;
-  }
-
-  .opções3{
     position: absolute;
     z-index: 3;
     color: #3F4927;
